@@ -1,0 +1,17 @@
+# Data files — too large for GitHub
+data/
+
+# Large model files — too large for GitHub
+models/classifier_rf.pkl
+models/classifier_xgb.pkl
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
