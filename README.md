@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-🚀 **Streamlit App** — [Try the deployed predictor](YOUR_STREAMLIT_URL_HERE)
+🚀 **Streamlit App** — [Try the deployed predictor](https://credit-risk-loan-amount-detection-jehknv8yutvj4yxgeeeqel.streamlit.app)
 
 ---
 
